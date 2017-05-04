@@ -4,10 +4,10 @@
 Steps for executing on Emulator:
 
 1. Settings -> Security -> FingerPrint
-![Alt text](/1.png?raw=true =640x480)
+<img src="/1.png" height="640" width="480"/>
 
 2. Press Ctrl + Shift + F
-![Alt text](/2.png?raw=true =480x480)
+<img src="/2.png" height="640" width="480"/>
 
 3. In the extended control, select "Finger 1" and click on "Touch Sensor" 
 
