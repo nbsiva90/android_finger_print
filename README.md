@@ -16,4 +16,4 @@ Steps for executing on Emulator:
 5. Repeat 2 and 3
 
 6. The finger print is authenticated and sucess or error msg is displayed
-![Alt text](/3.png?raw=true =640x480)
+<img src="/3.png" height="640" width="480"/>
